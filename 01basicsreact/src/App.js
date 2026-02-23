@@ -1,6 +1,10 @@
+import Sample from './sample';
+
 function App() {
   return (
-    <h1>Hello This is first screen</h1>
+    <>
+      <Sample/>
+    </>
   );
 }
 export default App;
